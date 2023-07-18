@@ -2,7 +2,7 @@
 
 I love coding, solving real-world problems, and new challenges with thrills.
 
-<img src="https://github.com/yuukicammy/irohalog/raw/main/public/img/me.png" alt="エビフライトライアングル" title="yuki nagai" width=300>
+<img src="https://drive.google.com/uc?export=download&id=1L1HH7VHuDMxuGblKV3uwcYb1-tTxwqEE" alt="Profile Image" title="yuki nagai" width=300>
 
 <table><tr><td valign="top" width="33%">
   
