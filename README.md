@@ -19,7 +19,7 @@ Coding, solving real-world problems, and new challenges with thrills.
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&pli=1&user=9XnbijYAAAAJ )
 
 ### Patents
-- [Japanese](49 Patente)
+- [Japanese] 49 Patente
 - [English](https://patents.google.com/?inventor=Yuki+Nagai&assignee=KDDI )
 
 </td><td valign="top" width="34%">
