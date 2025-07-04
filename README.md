@@ -8,7 +8,7 @@ Coding, solving real-world problems, and new challenges with thrills.
   
   ### Social media
   
-- [Twitter](https://twitter.com/yuukicammy)
+- [X](https://x.com/yuukicammy)
 - [IrohaLog (Japanese Blog)](https://irohalog.hatenablog.com/)
 - [Medium (English Blog)](https://medium.com/@ytra.mail)
 - [LinkedIn](https://www.linkedin.com/in/yukinagai/)
@@ -20,7 +20,7 @@ Coding, solving real-world problems, and new challenges with thrills.
 
 ### Patents
 - [Japanese] 49 Patente
-- [English](https://patents.google.com/?inventor=Yuki+Nagai&assignee=KDDI )
+- [English (Google Patents)](https://patents.google.com/?inventor=%E6%9C%89%E5%B8%8C+%E6%B0%B8%E4%BA%95)
 
 </td><td valign="top" width="34%">
   
