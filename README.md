@@ -20,7 +20,7 @@ Coding, solving real-world problems, and new challenges with thrills.
 
 ### Patents
 - [Japanese] 49 Patente
-- [English (Google Patents)](https://patents.google.com/?inventor=%E6%9C%89%E5%B8%8C+%E6%B0%B8%E4%BA%95)
+- [[English] Google Patents](https://patents.google.com/?inventor=%E6%9C%89%E5%B8%8C+%E6%B0%B8%E4%BA%95)
 
 </td><td valign="top" width="34%">
   
