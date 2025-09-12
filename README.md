@@ -1,6 +1,6 @@
 ### Yuki Nagai 
 
-Coding, solving real-world problems, and new challenges with thrills.
+New challenges with thrills.
 
 <img src="https://drive.google.com/uc?export=download&id=1L1HH7VHuDMxuGblKV3uwcYb1-tTxwqEE" alt="Profile Image" title="yuki nagai" width=300>
 
