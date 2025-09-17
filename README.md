@@ -19,7 +19,7 @@ New challenges with thrills.
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&pli=1&user=9XnbijYAAAAJ )
 
 ### Patents
-- [Japanese] 49 Patente
+- [Japanese] 49 Patentes
 - [[English] Google Patents](https://patents.google.com/?inventor=%E6%9C%89%E5%B8%8C+%E6%B0%B8%E4%BA%95)
 
 </td><td valign="top" width="34%">
